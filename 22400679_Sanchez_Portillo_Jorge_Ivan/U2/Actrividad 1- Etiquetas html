@@ -1,0 +1,129 @@
+1.
+<h1>
+Crear un encabezado pricipal
+<h1>Texto</h1>
+<h1>Mi página web</h1>
+
+2. 
+<h2>
+Crear un encabezado de segundo nivel
+<h2>Texto</h2>
+<h2>Sobre nosotros</h2>
+
+3.
+<p>
+Crear un párrafo
+<p>Texto</p>
+<p>Bienvenido a mi página.</p>
+
+4.
+<br>
+Insertar un salto de línea
+<br>
+Hola<br>Mundo
+
+5.
+<strong>
+Resaltar texto con importancia, normalmente en negrita
+<strong>Texto</strong>
+<strong>Texto importante</strong>
+
+6.
+<em>
+Dar énfasis a un texto, normalmente en cursiva
+<em>Texto</em>
+<em>Texto destacado</em>
+
+7.
+<a>
+Crear un enlace a otra página o sitio
+<a href="URL">Texto</a>
+<a href="https://google.com">Google</a>
+
+8.
+<img>
+Insertar una imagen
+<img src="imagen.jpg" alt="Descripción">
+<img src="foto.jpg" alt="Mi foto">
+
+9.
+<ul>
+Crear una lista sin orden
+<ul><li>Elemento</li></ul>
+<ul><li>Manzana</li><li>Fresa</li></ul>
+
+10.
+<ol>
+Crear una lista ordenada
+<ol><li>Elemento</li></ol>
+<ol><li>Primero</li><li>Segundo</li></ol>
+
+11.
+<li>
+Crear un elemento dentro de una lista
+<li>Texto</li>
+<li>Elemento de lista</li>
+
+12.
+<div>
+Agrupar y organizar contenido
+<div>Contenido</div>
+<div>Mi sección</div>
+
+13.
+<span>
+Agrupar una parte pequeña de texto o contenido
+<span>Texto</span>
+<span>Texto especial</span>
+
+14.
+<table>
+Crear una tabla
+<table>Contenido</table>
+<table><tr><td>Dato</td></tr></table>
+
+15.
+<tr>
+Crear una fila dentro de una tabla
+<tr>Contenido</tr>
+<tr><td>Juan</td></tr>
+
+16.
+<td>
+Crear una celda de datos en una tabla
+<td>Dato</td>
+<td>20 años</td>
+
+17.
+<button>
+Crear un botón interactivo
+<button>Texto</button>
+<button>Enviar</button>
+
+18.
+<form>
+Crear un formulario para introducir datos
+<form>Contenido</form>
+<form><input type="text"></form>
+
+19.
+<input>
+Crear un campo para introducir información
+<input type="tipo">
+<input type="text">
+
+20.
+<title>
+Definir el título que aparece en la pestaña del navegador	
+<title>Texto</title>	
+<title>Mi página web</title>
+
+
+
+
+
+
+
+
+
+
